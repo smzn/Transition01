@@ -1,0 +1,216 @@
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.84525775909424[sec]
+Start this process for 21 of 24
+Number of Unique Mac Address : 33837
+Start Number : 29607
+End Number : 31017
+Mean Compute time for an unique MAC:5.849177598953247[sec]
+Transition_Compute_time:8198.470160245895[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.843812704086304[sec]
+Start this process for 8 of 24
+Number of Unique Mac Address : 33837
+Start Number : 11279
+End Number : 12688
+Mean Compute time for an unique MAC:5.578367233276367[sec]
+Transition_Compute_time:8238.04093337059[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.873053312301636[sec]
+Start this process for 23 of 24
+Number of Unique Mac Address : 33837
+Start Number : 32427
+End Number : 33837
+Mean Compute time for an unique MAC:5.816853761672974[sec]
+Transition_Compute_time:8302.037618637085[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.78751230239868[sec]
+Start this process for 15 of 24
+Number of Unique Mac Address : 33837
+Start Number : 21148
+End Number : 22558
+Mean Compute time for an unique MAC:5.7837793827056885[sec]
+Transition_Compute_time:8344.744487047195[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.879100799560547[sec]
+Start this process for 6 of 24
+Number of Unique Mac Address : 33837
+Start Number : 8459
+End Number : 9869
+Mean Compute time for an unique MAC:5.76326322555542[sec]
+Transition_Compute_time:8355.900440216064[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.86365270614624[sec]
+Start this process for 1 of 24
+Number of Unique Mac Address : 33837
+Start Number : 1409
+End Number : 2819
+Mean Compute time for an unique MAC:5.7814671993255615[sec]
+Transition_Compute_time:8375.031101942062[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.86011528968811[sec]
+Start this process for 5 of 24
+Number of Unique Mac Address : 33837
+Start Number : 7049
+End Number : 8459
+Mean Compute time for an unique MAC:5.703185796737671[sec]
+Transition_Compute_time:8382.874476671219[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.889320373535156[sec]
+Start this process for 10 of 24
+Number of Unique Mac Address : 33837
+Start Number : 14098
+End Number : 15508
+Mean Compute time for an unique MAC:6.0420873165130615[sec]
+Transition_Compute_time:8385.211905241013[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.814285278320312[sec]
+Start this process for 2 of 24
+Number of Unique Mac Address : 33837
+Start Number : 2819
+End Number : 4229
+Mean Compute time for an unique MAC:6.038377285003662[sec]
+Transition_Compute_time:8390.292091846466[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.836113214492798[sec]
+Start this process for 3 of 24
+Number of Unique Mac Address : 33837
+Start Number : 4229
+End Number : 5639
+Mean Compute time for an unique MAC:5.783117771148682[sec]
+Transition_Compute_time:8394.425600528717[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.902230501174927[sec]
+Start this process for 11 of 24
+Number of Unique Mac Address : 33837
+Start Number : 15508
+End Number : 16918
+Mean Compute time for an unique MAC:5.720485210418701[sec]
+Transition_Compute_time:8425.65288233757[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.854874849319458[sec]
+Start this process for 7 of 24
+Number of Unique Mac Address : 33837
+Start Number : 9869
+End Number : 11279
+Mean Compute time for an unique MAC:5.928566932678223[sec]
+Transition_Compute_time:8424.886846780777[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.88497829437256[sec]
+Start this process for 0 of 24
+Number of Unique Mac Address : 33837
+Start Number : 0
+End Number : 1409
+Mean Compute time for an unique MAC:5.92866849899292[sec]
+Transition_Compute_time:8431.75065946579[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.806967973709106[sec]
+Start this process for 9 of 24
+Number of Unique Mac Address : 33837
+Start Number : 12688
+End Number : 14098
+Mean Compute time for an unique MAC:5.960908651351929[sec]
+Transition_Compute_time:8442.246529340744[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.832303524017334[sec]
+Start this process for 4 of 24
+Number of Unique Mac Address : 33837
+Start Number : 5639
+End Number : 7049
+Mean Compute time for an unique MAC:5.892309188842773[sec]
+Transition_Compute_time:8445.488343000412[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.869959354400635[sec]
+Start this process for 14 of 24
+Number of Unique Mac Address : 33837
+Start Number : 19738
+End Number : 21148
+Mean Compute time for an unique MAC:5.8184075355529785[sec]
+Transition_Compute_time:8530.373320817947[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.879098892211914[sec]
+Start this process for 13 of 24
+Number of Unique Mac Address : 33837
+Start Number : 18328
+End Number : 19738
+Mean Compute time for an unique MAC:5.854868650436401[sec]
+Transition_Compute_time:8536.33168053627[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.883943796157837[sec]
+Start this process for 22 of 24
+Number of Unique Mac Address : 33837
+Start Number : 31017
+End Number : 32427
+Mean Compute time for an unique MAC:5.856497049331665[sec]
+Transition_Compute_time:8539.214458465576[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.875081539154053[sec]
+Start this process for 18 of 24
+Number of Unique Mac Address : 33837
+Start Number : 25377
+End Number : 26787
+Mean Compute time for an unique MAC:5.82585883140564[sec]
+Transition_Compute_time:8539.645418167114[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.849703073501587[sec]
+Start this process for 16 of 24
+Number of Unique Mac Address : 33837
+Start Number : 22558
+End Number : 23967
+Mean Compute time for an unique MAC:6.003185749053955[sec]
+Transition_Compute_time:8558.210361480713[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.87568998336792[sec]
+Start this process for 17 of 24
+Number of Unique Mac Address : 33837
+Start Number : 23967
+End Number : 25377
+Mean Compute time for an unique MAC:5.962610483169556[sec]
+Transition_Compute_time:8563.53065443039[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.82770586013794[sec]
+Start this process for 12 of 24
+Number of Unique Mac Address : 33837
+Start Number : 16918
+End Number : 18328
+Mean Compute time for an unique MAC:5.720062017440796[sec]
+Transition_Compute_time:8570.9026658535[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.7491672039032[sec]
+Start this process for 20 of 24
+Number of Unique Mac Address : 33837
+Start Number : 28197
+End Number : 29607
+Mean Compute time for an unique MAC:5.5920069217681885[sec]
+Transition_Compute_time:8577.5857360363[sec]
+Number of AP : 1123
+Number of Data : 7655584
+data_import_time:26.91875910758972[sec]
+Start this process for 19 of 24
+Number of Unique Mac Address : 33837
+Start Number : 26787
+End Number : 28197
+Mean Compute time for an unique MAC:5.903997898101807[sec]
+Transition_Compute_time:8598.845949172974[sec]
